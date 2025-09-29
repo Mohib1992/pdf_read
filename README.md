@@ -59,3 +59,9 @@ thrown.
  - use `uncomma()` to deal with numbers that may use a decimal comma (see `app/Helpers/Helper.php`)
 
  - use `App\GeonamesCountry::getIso()` to convert country names to ISO codes
+
+=====================================================================================================
+
+# Instruction
+
+ - I have create a class called TaskPdfAssistant. So pdf name should be match with this class name to run.
